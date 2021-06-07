@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pYqsYs
-- 👀 I’m interested in natural languages.
-- 📫 How to reach me pYqsYs.com@gmail.com
+👋 Hi, I’m @pYqsYs
+👀 I’m interested in natural languages.
+📫 Contact me pYqsYs.com@gmail.com
 
 <!---
 pYqsYs/pYqsYs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
