@@ -1,5 +1,5 @@
-👋 Hi, I’m @pYqsYs
-👀 I’m interested in natural languages.
+👋 Hi, I’m @pYqsYs  
+👀 I’m interested in natural languages.  
 📫 Contact me pYqsYs.com@gmail.com
 
 <!---
